@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/vsery/VsAdmin.png?label=ready&title=Ready)](https://waffle.io/vsery/VsAdmin?utm_source=badge)
+[![Stories in Ready](https://badge.waffle.io/vsery/VsAdmin.png?label=ready&title=Ready)](https://waffle.io/vsery/VsAdmin?utm_source=badge)
 ## VsAdmin
 
 > VsAdmin
